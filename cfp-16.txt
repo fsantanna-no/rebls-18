@@ -1,0 +1,42 @@
+all for Papers
+
+Even though reactive programming and event-based programming are receiving ever more attention, the field is far from mature. This workshop will join forces and try to gather researchers working on the foundational models, languages and implementation technologies. We welcome all submissions on reactive programming, aspect- and event-oriented systems, including but not limited to:
+
+    Language design, implementation, runtime systems, program analysis, software metrics, patterns and benchmarks.
+
+    Study of the paradigm: interaction of reactive and event-based programming with existing language features such as object-oriented programming, mutable state, concurrency.
+
+    Advanced event systems, event quantification, event composition, aspect-oriented programming for reactive applications.
+
+    Functional-reactive programming, self-adjusting computation and incremental computing.
+
+    Applications, case studies that show the efficacy of reactive programming.
+
+    Empirical studies that motivate further research in the field.
+
+    Patterns and best-practices.
+
+    Related fields, such as complex event processing, reactive data structures, view maintenance, constraint-based languages, and their integration with reactive programming. IDEs, Tools.
+
+    Implementation technology, language runtimes, virtual machine support, compilers.
+
+    Modularity and abstraction mechanisms in large systems.
+
+    Formal models for reactive and event-based programming.
+
+The format of the workshop is that of a mini-conference. Participants can present their work in slots of 30mins with Q&A included. Because of the declarative nature of reactive programs, it is often hard to understand their semantics just by looking at the code. We therefore also encourage authors to use their slots for presenting their work based on live demos.
+Submissions
+
+Submissions deadline: 15 August (updated)
+
+REBLS encourages submissions of two types of papers:
+
+Research results: complete works that ill be published in the ACM digital library.
+
+In progress papers: papers that have the potential of triggering an interesting discussion at the workshop or present new ideas that require further systematic investigation. These papers will not be published in the ACM digital library.
+
+Submission site: REBLS papers should be submitted via HotCRP:
+
+https://rebls16.hotcrp.com
+
+Format: Submissions should use the SIGPLAN Proceedings Format, 9 point font. Papers can be up to 6 pages in length including references. Authors are required to explicitly specify the type of paper in the submission.
